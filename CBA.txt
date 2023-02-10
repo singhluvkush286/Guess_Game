@@ -1,0 +1,23 @@
+1. What is computer ?
+ Computer is an electronic device which take input from the user and process the data according to the data according to the input given and give the output .
+
+2. What is RAM ? 
+   RAM stand for "Random Access Memory" .RAM is made up of semiconductor usually which is faster than Hardisk memory , to match the speed of processor we use use RAM in between them . 
+
+3. Where is the data stored in memory ?
+   Data is stored in the Hardisk memory of the computer which is non-volatile in nature . Nowadays , In most of the system people are using  SSD which is usually faster than Hardisk .
+ 
+4.  What is the input device that allow you to type text and number in the computer system ?
+    Keyboard .
+ 
+5. What are the output devices?
+   Output device display the result of the processing of raw data thatis entered in the computer through an input device .
+
+6. Which is the input device  that allows a user to move the cursor or pointer on the screen?
+  mouse 
+
+7. Which language is directly  understood by the computer without a translation program?
+  Bianry Language 
+
+8. What are the input devices?
+  device in which user give the input to to system to perform some action .
